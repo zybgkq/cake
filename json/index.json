@@ -1,0 +1,14 @@
+[
+	{"id":1,"image":"../image/list.jpg","introduce":"如丝绒般的柔软口感","name":"经典红丝绒","word":"Love Red Velvet","price":"￥198.00","pound":"/1.2磅"},
+	{"id":2,"image":"../image/list1.jpg","introduce":"从第一口‘侵略’到最后一口","name":"女士芝士","word":"Queen Cheese cake","price":"￥198.00","pound":"/1.5磅"},
+	{"id":3,"image":"../image/list2.jpg","introduce":"只留下奶香巧克力化也化不开的醇香","name":"奶香巧克力","word":"hocolate cake","price":"￥198.00","pound":"/1.2磅"},
+	{"id":4,"image":"../image/list3.jpg","introduce":"每一口都在辨别那浓滑如丝的滋味","name":"浓情巧克力","word":"Love in Chocolate","price":"￥198.00","pound":"/1.2磅"},
+	{"id":5,"image":"../image/list4.jpg","introduce":"纯正芝士与醇香奶油的梦幻组合","name":"爱丁堡之恋","word":"Love in Edinburgh","price":"￥198.00","pound":"/1.5磅"},
+	{"id":6,"image":"../image/list5.jpg","introduce":"白雪绵绵，芒果酸甜","name":"芒果绵绵雪","word":"Mango Cream Cake","price":"￥198.00","pound":"/1.2磅"},
+	{"id":7,"image":"../image/list6.jpg","introduce":"定格在提卡米苏惑人的浓醇香气中吧","name":"提拉米苏","word":"Tiramisu","price":"￥198.00","pound":"/1.5磅"},
+	{"id":8,"image":"../image/list7.jpg","introduce":"吹拂的风是玛格丽特柔软的芬芳","name":"玛格丽特","word":"Princess Margaret","price":"￥198.00","pound":"/1.5磅"},
+	{"id":9,"image":"../image/list8.jpg","introduce":"记忆中的绵密口感，沁着浓郁奶香","name":"经典奶香","word":"Classic Cream","price":"￥198.00","pound":"/1.5磅"},
+	{"id":10,"image":"../image/list9.jpg","introduce":"骑士守护森林，守护最甜蜜丝滑的滋味","name":"维也纳骑士","word":"Vienna Knight","price":"￥198.00","pound":"/1.2磅"},
+	{"id":11,"image":"../image/list10.jpg","introduce":"炎炎夏日的最佳选择","name":"樱桃冻芝士","word":"Cherry Cheese cake","price":"￥198.00","pound":"/1.5磅"},
+	{"id":12,"image":"../image/list11.jpg","introduce":"火突破巧克力的拥抱，烈焰燃烧","name":"伦敦之焰","word":"Flame of London","price":"￥198.00","pound":"/1.5磅"}
+]
